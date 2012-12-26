@@ -57,7 +57,7 @@
 
     <issueManagement>
     <system>Github </system>
-    <url>http://github.com/mosabua/maven-android-sdk-deployer/issues</url>
+    <url>http://github.com/playhaven/playhaven-maven-android-sdk-deployer/issues</url>
     </issueManagement>
     <mailingLists>
         <mailingList>
