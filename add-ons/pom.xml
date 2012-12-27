@@ -46,9 +46,6 @@
     <profiles>
         <profile>
             <id>all</id>
-            <activation>
-                <activeByDefault>true</activeByDefault>
-            </activation>
             <modules>
                 <module>google-apis-3</module>
                 <module>google-apis-4</module>
@@ -61,7 +58,7 @@
                 <module>google-apis-14</module>
                 <module>google-apis-15</module>
                 <module>google-apis-16</module>
-				<module>google-apis-17</module>
+				        <module>google-apis-17</module>
             </modules>
         </profile>
         <profile>
@@ -90,6 +87,9 @@
         </profile>
         <profile>
             <id>2.3.3</id>
+            <activation>
+                <activeByDefault>true</activeByDefault>
+            </activation>
             <modules>
                 <module>google-apis-10</module>
             </modules>
